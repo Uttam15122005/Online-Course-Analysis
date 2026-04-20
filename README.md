@@ -36,8 +36,8 @@ This project analyzes online course data to extract meaningful insights related 
 ## 📷 Dashboard Preview
 
 ### 📌 Online Learning Market Overview
-![Dashboard1](<img width="1346" height="754" alt="Screenshot 2026-04-20 135407" src="https://github.com/user-attachments/assets/17fa5778-6d03-407a-8044-f721e0c96cc5" />
-)
+![Dashboard1]<img width="1346" height="754" alt="Screenshot 2026-04-20 135407" src="https://github.com/user-attachments/assets/c5c81431-3aa6-4fb2-99af-5243ef647b34" />
+
 
 ### 📌 Pricing & Revenue Insights
 ![Dashboard2](https://via.placeholder.com/800x400.png?text=Revenue+Insights)
